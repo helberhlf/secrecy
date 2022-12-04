@@ -1,5 +1,5 @@
 # Secrecy
-A ponte forte para uma transição fácil entre cenários conceituais até a implementação prática.
+A ponte forte para uma transição fácil entres cenários conceituais até a implementação na prática.
 
 
 # Leituras em Andamento Top 5

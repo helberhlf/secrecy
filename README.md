@@ -32,7 +32,7 @@ A ponte forte para uma transição fácil entres cenários conceituais até a im
 
 ---
 
-# Leituras em Adamento 85% concluídas
+# Leituras em Andamento 85% concluídas
 
 ![image](https://user-images.githubusercontent.com/13972838/205516919-ac299cd2-1729-4e98-b114-27f1d749826b.png)
 

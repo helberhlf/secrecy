@@ -29,6 +29,14 @@ A ponte forte para uma transição fácil entres cenários conceituais até a im
 
 ![image](https://user-images.githubusercontent.com/13972838/205516252-6c9c7828-e326-4ec6-9fdf-0128fc9fc4cd.png)
 
+---
+
+![image](https://user-images.githubusercontent.com/13972838/210543068-35491ec1-8e6b-403a-a631-6bdeb1e22ff3.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/13972838/210543414-bf133ef2-5c0c-473c-8654-20ecf2f0b0cf.png)
+
 
 ---
 
@@ -36,8 +44,7 @@ A ponte forte para uma transição fácil entres cenários conceituais até a im
 
 ![image](https://user-images.githubusercontent.com/13972838/205516919-ac299cd2-1729-4e98-b114-27f1d749826b.png)
 
---- 
-
+---
 
 ![image](https://user-images.githubusercontent.com/13972838/205517022-a7180d5e-3d96-476f-8abb-6fb280c5b55c.png)
 
@@ -63,4 +70,3 @@ A ponte forte para uma transição fácil entres cenários conceituais até a im
 
 ---
 
-![image](https://user-images.githubusercontent.com/13972838/210543068-35491ec1-8e6b-403a-a631-6bdeb1e22ff3.png)

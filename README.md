@@ -2,7 +2,7 @@
 A ponte forte para uma transição fácil entres cenários conceituais até a implementação na prática.
 
 
-# Leituras em Andamento Top 5
+# Leituras em Andamento Top 6
 
 
 ![image](https://user-images.githubusercontent.com/13972838/205516317-267620ad-8ac7-4027-ac7e-621b1dc70e38.png)
@@ -60,3 +60,7 @@ A ponte forte para uma transição fácil entres cenários conceituais até a im
 ---
 
 ![image](https://user-images.githubusercontent.com/13972838/205517311-8fc7350d-092d-4137-9da2-46aaf3cb87f5.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/13972838/210543068-35491ec1-8e6b-403a-a631-6bdeb1e22ff3.png)
